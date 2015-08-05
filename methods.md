@@ -1,7 +1,6 @@
 #Methods
 ###  * scan for _cases_: 
-
- ####  * search GitHub, partner-projects, media reports
+####  * search GitHub, partner-projects, media reports
 ####  * focus on repos using plain text, content of markup and markdown files
 ####  * not focused on repos primarily using "issues"
 ####  * open to accepting PRs from anyone
