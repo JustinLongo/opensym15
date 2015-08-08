@@ -7,3 +7,4 @@
 ###  * _reviewed content and process_ of each case
 ###  * _reviewed repo data_ (# contributors, # commits, # forks, discussion through "issues")
 ###  * consulted _supplemental descriptions_, e.g. blog posts, media reports.
+###  * supplemented by data from a survey of public servants with GitHub accounts.
